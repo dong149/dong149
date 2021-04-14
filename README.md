@@ -1,7 +1,7 @@
 ### 류동훈(Patrick Ryoo)
 서비스를 개발하고 사람을 만나는 것을 좋아하는 평범한 대학생입니다. 
 <br/><br/>
-
+[![dong149 @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dong149)](https://solved.ac/profile/dong149)
 ### 활동
 - 넥스터즈 18기 CEO(2020.09~2020.02.20) 
 - 넥스터즈 17기(2020.07~2020.08) 
