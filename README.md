@@ -3,6 +3,9 @@
 <br/><br/>
 [![dong149 @ solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=dong149)](https://solved.ac/profile/dong149)
 <br/>
+### 커리어
+- 카카오페이 서버 개발 인턴(2021.08~)
+
 ### 활동
 - 넥스터즈 18기 CEO(2020.09~2021.02.20) 
 - 넥스터즈 17기(2020.07~2020.08) 
